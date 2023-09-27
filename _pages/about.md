@@ -8,15 +8,20 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+I began my career in 2012 as an Assistant Industrial Engineer at a US-based printing company, where I primarily focused on optimizing digital printing production processes. In 2016, I transitioned to another company as a Senior Industrial Engineer, responsible for factory design work in the South China region. From 2019 to 2022, I pursued a Master's degree in Industrial Engineering at Guangdong University of Technology. My research area was intelligent manufacturing system design, and during my graduate studies, I participated in a national fund project and two university-industry collaboration projects, playing significant roles in these research endeavors.
+Since 2023, I have been working as a Senior Simulation Engineer at CALB Group, Ltd. My role involves optimizing production manufacturing processes through the development of intelligent algorithms and the utilization of industrial simulation tools. Throughout my six years of work experience and three years of graduate studies, I have successfully led or contributed to several medium to large-scale intelligent manufacturing projects, which have provided me with extensive experience in the field of industrial manufacturing.
+Currently, I am particularly interested in digital twin technology, as it holds tremendous potential for application in the field of intelligent manufacturing. I aspire to make breakthroughs and innovations in this field through in-depth research and continuous learning.
 
 Research Interests
 ======
-Like many other Jekyll-based GitHub Pages templates, 
+* Manufacturing System Design
+* Digital twin-driven production scheduling problem
+* AGV dispatching problem
+* Facility Layout Design
 
 Expertise 
 ======
 * **Programming:** Java, Python, C#, SQL
-* **Simulation Sofware:** Flexsim, Plant Simulation
+* **Simulation Sofware:** Flexsim, Plant Simulation 
 * **Proficient contents:** Graph Theory, Reinforcement Learning, Heuristic Algorithm, Operation Research Theory
 * **Communication:** Mandarin, Cantonese, English
