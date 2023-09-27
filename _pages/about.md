@@ -12,7 +12,7 @@ I started my career in 2012 as an Assistant Industrial Engineer at a US-based pr
 
 Since 2023, I have been working as a Senior Simulation Engineer at CALB Group, Ltd. My role involves optimizing production manufacturing processes through the development of intelligent algorithms and the utilization of industrial simulation tools. Throughout my six years of work experience and three years of graduate studies, I have successfully led or contributed to several medium to large-scale intelligent manufacturing projects, which have provided me with extensive experience in the field of industrial manufacturing.
 
-I am particularly interested in the integration of digital twin technology and dynamic scheduling problems. Currently, at my company, we have initiated projects that leverage digital twin technology to address workshop scheduling and production equipment monitoring. Additionally, I am eager to explore PHD opportunities related to digital twin manufacturing, allowing me to conduct in-depth research and learning in this field and achieve breakthroughs and innovative research outcomes.
+I am particularly interested in the integration of digital twin technology and dynamic scheduling problems. Currently, at my company, we have initiated projects that leverage digital twin technology to address workshop scheduling and production equipment monitoring. Additionally, I am eager to explore PHD opportunities related to digital twin driven smart manufacturing, allowing me to conduct in-depth research and learning in this field and achieve breakthroughs and innovative research outcomes.
 
 Research Interests
 ======
@@ -21,9 +21,9 @@ Research Interests
 * AGV dispatching problem
 * Facility Layout Design
 
-Expertise 
+Related Skills 
 ======
 * **Programming:** Java, Python, C#, SQL
 * **Simulation Sofware:** Flexsim, Plant Simulation 
-* **Proficient contents:** Graph Theory, Reinforcement Learning, Heuristic Algorithm, Operation Research Theory
+* **Proficient contents:** Heuristic Algorithm, Deep Reinforcement Learning, Operation Research Theory, Graph Theory
 * **Communication:** Mandarin, Cantonese, English
