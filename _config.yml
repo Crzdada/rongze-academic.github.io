@@ -83,12 +83,11 @@ author:
   name             : "Rongze Cai"
   avatar           : "profile.png"
   bio              : "Senior Simulation Engineer/Senior Industrial Engineer, CIEI Member"
-  location         : "Shenzhen, China"
-  location         : "CALB Group.,Ltd"
+  location         : "CALB Group.,Ltd, Shenzhen, China"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
-  email            :
+  email            :  "rongzecai_gdut_phd@163.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
