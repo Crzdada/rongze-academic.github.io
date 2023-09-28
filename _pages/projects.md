@@ -23,7 +23,7 @@ Establish a mathematical model for the k-arc strongly connected guidance path ne
 
 ![current](/images/current_AGV_network.png)
 ![ALNS](/images/ALNS.png)  
-<center>Comparison of topology of AGV guide-path between current solution and ALNS</center>  
+<center>Comparison of topology of AGV guide-path between current solution and ALNS solution</center>  
 
 ![simulation](/images/Simulation.png#pic_center)  
 <center>The simulation model of optimal 2-arc strong connect layout base on ALNS</center>
