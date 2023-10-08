@@ -21,11 +21,10 @@ _2020.11-2022.06_
 Based on the current layout of the machining workshop of a customized equipment intelligent manufacturing enterprise, it is proposed to first design an AGV guidance path network with a flexible structure. The aim is to reduce the probability of AGV operation congestion in the workshop during the planning stage, reduce the difficulty and complexity of subsequent AGV scheduling stages, and improve logistics transportation efficiency.  
 Establish a mathematical model for the k-arc strongly connected guidance path network in the machining workshop, and first use the existing VNS algorithm to solve its problem. Then, improve the VNS algorithm and propose a solution algorithm based on adaptive large neighborhood search algorithm(ALNS). The experimental results show that the solution performance of this algorithm is better than that of the VNS algorithm.  
 
-![current]({{site}}/images/current_AGV_network.png)
-![ALNS](/images/ALNS.png)  
-<center>Comparison of topology of AGV guide-path between current solution and ALNS solution</center>  
+<img src="../images/current_AGV_network.png" alt="current"/>
 
-![simulation](/images/Simulation.PNG#pic_center)  
+<center>Comparison of topology of AGV guide-path between current solution and ALNS solution</center>  
+  
 <center>The simulation model of optimal 2-arc strong connect layout base on ALNS</center>
 
 <style>
