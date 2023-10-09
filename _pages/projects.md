@@ -25,6 +25,7 @@ author_profile: true
   img[alt="ALNS"]{width:400px;}
   img[alt="simulation"]{width:500px;}
   img[alt="architecture"]{width:600px;}
+  img[alt="layout"]{width:600px;}
   .image-container {
     display: flex;
     justify-content: center;
@@ -86,4 +87,7 @@ _**2019.12-2020.09**_
 _School-enterprise cooperation project_  
 _Ning Mao, Huiyu Zhang, Yong Liao, Xuanrui Chen, Rongze Cai, Ting Deng_  
 * **Key responsibilities:** researched the network topology design of AGV guide-path and addressed the AGV congestion problems
-* **Result:** A set of workshop layout planning and design systems were created based on the production characteristics of the enterprise in a bid to endow the enterprise with the rapid layout ability
+* **Result:** A set of workshop layout planning and design systems were created based on the production characteristics of the enterprise in a bid to endow the enterprise with the rapid layout ability  
+
+<img src="../images/Development_of_Robot_Intelligent_Factory_Layout_Designning_System.png" alt="layout" class="center">
+<center>Facility layout design with simulation model</center>
