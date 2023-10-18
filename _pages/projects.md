@@ -82,6 +82,13 @@ _Ning Mao, Rongze Cai, Changwei Hu, Feichuang Fang_
 * **Key responsibilities:** lucubrated the AGV charging strategy of the machining workshop, constructed the simulation model of the workshop using the software Plant Simulation, and conducted simulation experiments to verify the model by designing different charging strategies.  
 * **Result:** increased the AGV transport efficiency by 30% and reduced the electricity cost by 5%.  
 
+<div class="image-container">
+  <img src="../images/AGVcharge.png" alt="current"/>
+  <img src="../images/AGVchargerResult.png" alt="current"/>
+</div>
+<center>Multi AGV Charging Strategy for Job Shop Based on Time of Use Electricity Price Considering Limited Electricity Constraints</center>  
+
+
 <b><font font size='4.8' color='navy'>Development of Robot Intelligent Factory Layout Designning System</font></b>  
 _**2019.12-2020.09**_  
 _School-enterprise cooperation project_  
